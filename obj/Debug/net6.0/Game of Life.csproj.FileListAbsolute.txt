@@ -1,0 +1,15 @@
+/Users/soo/Desktop/Game of Life/bin/Debug/net6.0/Game of Life
+/Users/soo/Desktop/Game of Life/bin/Debug/net6.0/Game of Life.deps.json
+/Users/soo/Desktop/Game of Life/bin/Debug/net6.0/Game of Life.runtimeconfig.json
+/Users/soo/Desktop/Game of Life/bin/Debug/net6.0/Game of Life.dll
+/Users/soo/Desktop/Game of Life/bin/Debug/net6.0/Game of Life.pdb
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.csproj.AssemblyReference.cache
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.GeneratedMSBuildEditorConfig.editorconfig
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.AssemblyInfoInputs.cache
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.AssemblyInfo.cs
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.csproj.CoreCompileInputs.cache
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.dll
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/refint/Game of Life.dll
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.pdb
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/Game of Life.genruntimeconfig.cache
+/Users/soo/Desktop/Game of Life/obj/Debug/net6.0/ref/Game of Life.dll
