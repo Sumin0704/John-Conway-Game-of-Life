@@ -20,6 +20,6 @@ and the discrete moment at which this happens is sometimes called a tick. Each g
 pure function of the preceding one. The rules continue to be applied repeatedly to create further
 generations.
 
-![Screen Shot 2022-10-11 at 4 28 13 PM](https://user-images.githubusercontent.com/83393163/195013968-265ddbf3-a4ce-4bab-977a-dde471440cb0.png)
+![Screen Shot 2022-10-11 at 4 28 13 PM](https://user-images.githubusercontent.com/83393163/195013968-265ddbf3-a4ce-4bab-977a-dde471440cb0.png)</n>
 ![Screen Shot 2022-10-11 at 4 28 37 PM](https://user-images.githubusercontent.com/83393163/195013976-cd75aab9-c0cb-475f-a0d7-17547e38b81c.png)
 ![Screen Shot 2022-10-11 at 4 30 15 PM](https://user-images.githubusercontent.com/83393163/195013990-daf6c022-f355-463a-a235-ae21c8da31f0.png)
